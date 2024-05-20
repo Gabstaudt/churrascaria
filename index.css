@@ -20,12 +20,12 @@
 }
 
 #confirmationMessage {
-    display: none; /* Começa escondido */
-    text-align: center; /* Centraliza o texto */
-    color: green; /* Cor do texto */
-    font-family: 'Big Shoulders Text', cursive; /* Fonte */
-    font-size: 1.2em; /* Tamanho do texto */
-    margin-top: 10px; /* Espaçamento superior */
+    display: none; 
+    text-align: center; 
+    color: green;
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 1.2em;
+    margin-top: 10px; 
 }
 
 .nav-flex-row li a {
@@ -37,7 +37,7 @@
 }
 
 .section-intro {
-    height: 820px;
+    height: 5000px;
     background-image: url(fotochu.jpg);
     background-size: cover;
     display: flex;
