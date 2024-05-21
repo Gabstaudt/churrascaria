@@ -37,7 +37,7 @@
 }
 
 .section-intro {
-    height: 5000px;
+    height: 820px;
     background-image: url(fotochu.jpg);
     background-size: cover;
     display: flex;
@@ -131,12 +131,7 @@ a.link-to-book:hover {
     margin: 30px 20px;
     font-size: 1.2em;
 }
-.carousel-item img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%; 
-}
+
 
 .form-group p {
     font-size: 1.2em;
